@@ -27,14 +27,16 @@ O modelo apos treinamento:
 
 ![image](https://github.com/sannlin9/Projeto-Credit-Score/assets/125318548/df4d3393-0c4e-465a-8189-aa110b6e75d2)
 
-5. Deploy do modelo: Após o treinamento, ajuste e validação do modelo, procedeu-se à implementação no Streamlit. Foi desenvolvida uma aplicação que recebe novos dados e realiza as previsões do modelo, retornando ao usuário um arquivo Excel com as previsões.
+Caso queira ler em detalhes todo o projeto está documentado em detalhes [aqui](https://github.com/sannlin9/Projeto-Credit-Score/blob/main/Desenvolvimento..ipynb).
+
+5. Deploy do modelo: Após o treinamento, ajuste e validação do modelo, procedeu-se à implementação no Streamlit. Foi desenvolvida uma aplicação que recebe novos dados e realiza as previsões do modelo, retornando ao usuário um arquivo Excel.
 
 [streamlit-app_pycaret-2023-05-19-14-05-31.webm](https://github.com/sannlin9/Projeto-Credit-Score/assets/125318548/9ca5b992-8d65-43da-a6cf-75aa6e7628c3)
 
 
 6. Ao longo de todo o processo, é crucial monitorar as métricas de desempenho do modelo. O objetivo final é desenvolver um modelo de score de crédito confiável e preciso, capaz de tomar decisões embasadas nos dados disponíveis.
 
-Quanto aos resultados:
+##### Quanto aos resultados:
 
 Na base de teste (out-of-time), obtivemos uma precisão de 90%.
 
@@ -42,14 +44,14 @@ Na base de teste (out-of-time), obtivemos uma precisão de 90%.
 
 Algumas outras metricas de desempenho.
 
-Curva ROC.
+###### Curva ROC.
 ![image](https://github.com/sannlin9/Projeto-Credit-Score/assets/125318548/00ce5685-3b60-4bc6-94d0-f5a84dc2532c)
 
-Precision- Recal
+###### Precision- Recal
 
 ![image](https://github.com/sannlin9/Projeto-Credit-Score/assets/125318548/62014e44-b5d3-4646-8186-502b7df6a190)
 
-Matrix de confusão.
+###### Matrix de confusão.
 
 ![image](https://github.com/sannlin9/Projeto-Credit-Score/assets/125318548/e43e75f1-a521-4d7b-b832-7be02d219ba7)
 
