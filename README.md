@@ -25,7 +25,7 @@
 
 O modelo apos treinamento:
 
-![image](https://github.com/sannlin9/Projeto-Credit-Score/assets/125318548/df4d3393-0c4e-465a-8189-aa110b6e75d2)
+![image](https://github.com/sannlin9/Projeto-Credit-Score/assets/125318548/111fd776-accd-4637-8d7c-c73fc4767490)
 
 Caso queira ler em detalhes todo o projeto está documentado em detalhes [aqui](https://github.com/sannlin9/Projeto-Credit-Score/blob/main/Desenvolvimento..ipynb).
 
@@ -38,21 +38,20 @@ Caso queira ler em detalhes todo o projeto está documentado em detalhes [aqui](
 
 ##### Quanto aos resultados:
 
-Na base de teste (out-of-time), obtivemos uma precisão de 90%.
+Na base de teste (out-of-time), obtivemos uma precisão de 92%.
 
-![image](https://github.com/sannlin9/Projeto-Credit-Score/assets/125318548/3374b56e-81c1-4b1b-8ab3-94f0ec8f724c)
+![image](https://github.com/sannlin9/Projeto-Credit-Score/assets/125318548/31230734-e90e-4b5d-a9a4-9ff5244b0800)
 
 Algumas outras metricas de desempenho.
 
 ###### Curva ROC.
-![image](https://github.com/sannlin9/Projeto-Credit-Score/assets/125318548/00ce5685-3b60-4bc6-94d0-f5a84dc2532c)
-
+![image](https://github.com/sannlin9/Projeto-Credit-Score/assets/125318548/fd77ccb2-c0f8-4022-a179-f0e54c5fd389)
 ###### Precision- Recal
 
-![image](https://github.com/sannlin9/Projeto-Credit-Score/assets/125318548/62014e44-b5d3-4646-8186-502b7df6a190)
+![image](https://github.com/sannlin9/Projeto-Credit-Score/assets/125318548/46e931cd-a577-4e27-bfcc-6c0d4076a124)
 
 ###### Matrix de confusão.
 
-![image](https://github.com/sannlin9/Projeto-Credit-Score/assets/125318548/e43e75f1-a521-4d7b-b832-7be02d219ba7)
+![image](https://github.com/sannlin9/Projeto-Credit-Score/assets/125318548/1f669b6d-f922-4237-8108-468ce5d33f11)
 
 
